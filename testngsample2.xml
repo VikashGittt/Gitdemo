@@ -1,0 +1,142 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test" parallel = "tests" thread-count = "1" > 
+<listeners>
+	<listener class-name = "com.a3hp.automationpracticee.framework.helper.TestBase.ListenersInSelenium"></listener>
+	<!--  <listener class-name ="com.a3hp.automationpracticee.framework.helper.TestBase.Retry"></listener>-->
+</listeners>
+
+	<test name="CHTest3-RegistrationTest" > 
+		<parameter name="Browser" value="CH"></parameter>
+		<parameter name="URL" value="http://automationpractice.com/index.php"></parameter>
+		<parameter name="OSName" value="WINDOWS"></parameter>	
+		<groups>
+			<run>
+				<include name="smoke"/>
+		 		<include name="txt"/>	 			 
+	 		</run>
+	 	</groups>
+		<classes>
+			<class name= "com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest"/>  
+		</classes>
+ 	</test> 
+
+
+
+
+    <test name="FFTest3-RegistrationTest" > 
+		<parameter name="Browser" value="FF"></parameter>
+		<parameter name="URL" value="http://automationpractice.com/index.php"></parameter>
+		<parameter name="OSName" value="WINDOWS"></parameter>	
+		<groups>
+			<run>
+				<include name="smoke"/>
+		 		<include name="txt"/>	 			 
+	 		</run>
+	 	</groups>
+		<classes>
+			<class name= "com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest"/>  	
+		</classes>
+ 	 </test> 
+ 	 
+ 	 
+     <test name="FFTest4-ForgotPasswordTest" > 
+		<parameter name="Browser" value="FF"></parameter>
+		<parameter name="URL" value="http://automationpractice.com/index.php"></parameter>
+		<parameter name="OSName" value="WINDOWS"></parameter>	
+		<groups>
+			<run>
+				<include name="smoke"/>
+		 		<include name="txt"/>	 			 
+	 		</run>
+	 	</groups>
+		<classes>			 
+			<class name= "com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest"/> 	
+		</classes>
+ 	</test> 
+
+ 	
+ <!-- 	-->	<test name="CHTest4-ForgotPasswordTest" > 
+		<parameter name="Browser" value="CH"></parameter>
+		<parameter name="URL" value="http://automationpractice.com/index.php"></parameter>
+		<parameter name="OSName" value="WINDOWS"></parameter>	
+		<groups>
+			<run>
+				<include name="smoke"/>
+		 		<include name="txt"/>	 			 
+	 		</run>
+	 	</groups>
+		<classes>
+			<class name= "com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest"/> 	
+		</classes>
+ 	</test> 
+ 	
+
+ 	
+	
+  <!-- 	--> 	<test name="CHTest1-SignInTest"  >	 
+		<parameter name="Browser" value="CH" ></parameter>
+		<parameter name="URL" value="http://automationpractice.com/index.php"></parameter>
+		<parameter name="OSName" value="WINDOWS"></parameter>	
+		<groups>
+			<run>
+				<include name="smoke"/>
+		 		<include name="txt"/>	 			 
+	 		</run>
+	 	</groups>			
+		<classes>
+			<class name= "com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>	
+				
+		</classes>		
+ 	</test> 
+ 	
+  <!-- 	--> <test name="FFTest1-SignInTest" > 
+		<parameter name="Browser" value="FF"></parameter>
+		<parameter name="URL" value="http://automationpractice.com/index.php"></parameter>
+		<parameter name="OSName" value="WINDOWS"></parameter>	
+		<groups>
+			<run>
+				<include name="smoke"/>
+		 		<include name="txt"/>	 			 
+	 		</run>
+	 	</groups>
+		<classes>
+			<class name= "com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>	
+		</classes>
+ 	</test>
+
+ <!-- 	-->	<test name="CHTest2-HomepageTest"  >	 
+		<parameter name="Browser" value="CH" ></parameter>
+		<parameter name="URL" value="http://automationpractice.com/index.php"></parameter>
+		<parameter name="OSName" value="WINDOWS"></parameter>	
+		<groups>
+			<run>
+				<include name="smoke"/>
+		 		<include name="txt"/>	 			 
+	 		</run>
+	 	</groups>			
+		<classes>
+			<class name= "com.a3hp.automationpracticee.framework.test.homepage.HomepageTest"/>		
+		</classes>		
+ 	</test> 
+
+ <!--  -->	<test name="FFTest2-HomepageTest" > 
+		<parameter name="Browser" value="FF"></parameter>
+		<parameter name="URL" value="http://automationpractice.com/index.php"></parameter>
+		<parameter name="OSName" value="WINDOWS"></parameter>	
+		<groups>
+			<run>
+				<include name="smoke"/>
+		 		<include name="txt"/>	 			 
+	 		</run>
+	 	</groups>
+		<classes>			 
+			<class name= "com.a3hp.automationpracticee.framework.test.homepage.HomepageTest"/>	
+		</classes>
+	 </test> 	
+
+ 	<test name="CHTest-TestRunner"  >	 
+		<classes>	
+			<class name= "com.a3hp.automationpracticee.framework.helper.TestBase.TestRunner"/>			
+		</classes>		
+ 	</test>
+</suite>	
