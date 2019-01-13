@@ -1,0 +1,2003 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 10 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Test">
+              <span class="suite-name border-failed">Test</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Test">
+                    <span>G:\QA\AutomationTools\Selenium\WorkspaceMars1\A3hp.com.automationprac\testngsample1.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Test">
+                    <span class="test-stats">8 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Test">
+                    <span>16 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Test">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Test">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Test">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Test">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">32 methods, 10 failed,  1 skipped,  21 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Test" class="hide-methods failed suite-Test"> (hide)</a> <!-- hide-methods failed suite-Test -->
+                      <a href="#" panel-name="suite-Test" class="show-methods failed suite-Test"> (show)</a> <!-- show-methods failed suite-Test -->
+                    </span>
+                    <div class="method-list-content failed suite-Test">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHomepageCarouselBlocks_HP">validateHomepageCarouselBlocks_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHomepageCarouselBlocks_HP">validateHomepageCarouselBlocks_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHomepageSlider1_HP">validateHomepageSlider1_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHomepageSlider1_HP">validateHomepageSlider1_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHomepageSlider2_HP">validateHomepageSlider2_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHomepageSlider2_HP">validateHomepageSlider2_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHomepageSlider3_HP">validateHomepageSlider3_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHomepageSlider3_HP">validateHomepageSlider3_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest" hash-for-method="validateforgotPasswordProcess_FP">validateforgotPasswordProcess_FP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest" hash-for-method="validateforgotPasswordProcess_FP">validateforgotPasswordProcess_FP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Test -->
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Test" class="hide-methods skipped suite-Test"> (hide)</a> <!-- hide-methods skipped suite-Test -->
+                      <a href="#" panel-name="suite-Test" class="show-methods skipped suite-Test"> (show)</a> <!-- show-methods skipped suite-Test -->
+                    </span>
+                    <div class="method-list-content skipped suite-Test">
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateLoginProcess_SIP">validateLoginProcess_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-Test -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Test" class="hide-methods passed suite-Test"> (hide)</a> <!-- hide-methods passed suite-Test -->
+                      <a href="#" panel-name="suite-Test" class="show-methods passed suite-Test"> (show)</a> <!-- show-methods passed suite-Test -->
+                    </span>
+                    <div class="method-list-content passed suite-Test">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest" hash-for-method="validateBreadcrumbText_RP">validateBreadcrumbText_RP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest" hash-for-method="validateBreadcrumbText_RP">validateBreadcrumbText_RP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest" hash-for-method="validateForgotPasswordPage_PageHeading_FP">validateForgotPasswordPage_PageHeading_FP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest" hash-for-method="validateForgotPasswordPage_PageHeading_FP">validateForgotPasswordPage_PageHeading_FP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateGetSavingNowButton_HP">validateGetSavingNowButton_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateGetSavingNowButton_HP">validateGetSavingNowButton_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHeaderSignInLink_HP">validateHeaderSignInLink_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateHeaderSignInLink_HP">validateHeaderSignInLink_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateLoginProcess_SIP">validateLoginProcess_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest" hash-for-method="validatePageHeading_RP">validatePageHeading_RP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest" hash-for-method="validatePageHeading_RP">validatePageHeading_RP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateRegistrationSectionHeading_SignInPage_SIP">validateRegistrationSectionHeading_SignInPage_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateRegistrationSectionHeading_SignInPage_SIP">validateRegistrationSectionHeading_SignInPage_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateSearchField_HP">validateSearchField_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest" hash-for-method="validateSearchField_HP">validateSearchField_HP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateSignInPageBreadcrumbText_SIP">validateSignInPageBreadcrumbText_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateSignInPageBreadcrumbText_SIP">validateSignInPageBreadcrumbText_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateSignInPage_PageHeading_SIP">validateSignInPage_PageHeading_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateSignInPage_PageHeading_SIP">validateSignInPage_PageHeading_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateSignInPage_SignInSectionHeading_SIP">validateSignInPage_SignInSectionHeading_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Test" title="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest" hash-for-method="validateSignInPage_SignInSectionHeading_SIP">validateSignInPage_SignInSectionHeading_SIP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Test -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Test" class="panel Test">
+          <div class="suite-Test-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateforgotPasswordProcess_FP">
+                  </a> <!-- validateforgotPasswordProcess_FP -->
+                  <span class="method-name">validateforgotPasswordProcess_FP</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: Unable to locate element: //p[contains(@class, &apos;alert-success&apos;)]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.9.1&apos;, revision: &apos;63f7b50&apos;, time: &apos;2018-02-07T22:25:02.294Z&apos;
+System info: host: &apos;DESKTOP-MUQUGSJ&apos;, ip: &apos;192.168.42.166&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_131&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 684, moz:profile: C:\Users\user\AppData\Local..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept}
+Session ID: c984f48b-6228-44d3-b069-6e868fbf398a
+*** Element info: {Using=xpath, value=//p[contains(@class, &apos;alert-success&apos;)]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:419)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy12.isDisplayed(Unknown Source)
+	at com.a3hp.automationpracticee.framework.genericclasses.UI_GenericMethods1.gm_getActualText(UI_GenericMethods1.java:716)
+	at com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest.validateforgotPasswordProcess_FP(ForgotPasswordTest.java:125)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 20 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateforgotPasswordProcess_FP">
+                  </a> <!-- validateforgotPasswordProcess_FP -->
+                  <span class="method-name">validateforgotPasswordProcess_FP</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: unknown error: keys should be a string
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10240 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.9.1&apos;, revision: &apos;63f7b50&apos;, time: &apos;2018-02-07T22:25:02.294Z&apos;
+System info: host: &apos;DESKTOP-MUQUGSJ&apos;, ip: &apos;192.168.42.166&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_131&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\user\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: accept, unhandledPromptBehavior: accept, version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: c9dda50406148b2fe8409e0ae589d9ad
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
+	at com.a3hp.automationpracticee.framework.genericclasses.UI_GenericMethods1.gm_XLInput1(UI_GenericMethods1.java:578)
+	at com.a3hp.automationpracticee.framework.pageobject.createaccountandlogin.ForgotPasswordPage.validateForgotPassword(ForgotPasswordPage.java:44)
+	at com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest.validateforgotPasswordProcess_FP(ForgotPasswordTest.java:122)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 24 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Test-class-failed -->
+          <div class="suite-Test-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.a3hp.automationpracticee.framework.test.homepage.HomepageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHomepageCarouselBlocks_HP">
+                  </a> <!-- validateHomepageCarouselBlocks_HP -->
+                  <span class="method-name">validateHomepageCarouselBlocks_HP</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [[https://www.prestashop.com/en?utm_source=v16_homeslider, https://www.prestashop.com/en?utm_source=v16_homeslider, https://www.prestashop.com/en?utm_source=v16_homeslider, https://www.prestashop.com/en?utm_source=v16_homeslider, https://www.prestashop.com/en?utm_source=v16_homeslider]] but found [[http://www.prestashop.com/?utm_source=v16_homeslider, http://www.prestashop.com/?utm_source=v16_homeslider, http://www.prestashop.com/?utm_source=v16_homeslider, http://www.prestashop.com/?utm_source=v16_homeslider, http://www.prestashop.com/?utm_source=v16_homeslider]]
+	at com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageCarouselBlocks_HP(HomepageTest.java:221)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHomepageCarouselBlocks_HP">
+                  </a> <!-- validateHomepageCarouselBlocks_HP -->
+                  <span class="method-name">validateHomepageCarouselBlocks_HP</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [[https://www.prestashop.com/en?utm_source=v16_homeslider, https://www.prestashop.com/en?utm_source=v16_homeslider, https://www.prestashop.com/en?utm_source=v16_homeslider, https://www.prestashop.com/en?utm_source=v16_homeslider, https://www.prestashop.com/en?utm_source=v16_homeslider]] but found [[http://www.prestashop.com/?utm_source=v16_homeslider, http://www.prestashop.com/?utm_source=v16_homeslider, http://www.prestashop.com/?utm_source=v16_homeslider, http://www.prestashop.com/?utm_source=v16_homeslider, http://www.prestashop.com/?utm_source=v16_homeslider]]
+	at com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageCarouselBlocks_HP(HomepageTest.java:221)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHomepageSlider1_HP">
+                  </a> <!-- validateHomepageSlider1_HP -->
+                  <span class="method-name">validateHomepageSlider1_HP</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [https://www.prestashop.com/en?utm_source=v16_homeslider] but found [http://www.prestashop.com/?utm_source=v16_homeslider]
+	at com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider1_HP(HomepageTest.java:158)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHomepageSlider1_HP">
+                  </a> <!-- validateHomepageSlider1_HP -->
+                  <span class="method-name">validateHomepageSlider1_HP</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [https://www.prestashop.com/en?utm_source=v16_homeslider] but found [http://www.prestashop.com/?utm_source=v16_homeslider]
+	at com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider1_HP(HomepageTest.java:158)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHomepageSlider2_HP">
+                  </a> <!-- validateHomepageSlider2_HP -->
+                  <span class="method-name">validateHomepageSlider2_HP</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [https://www.prestashop.com/en?utm_source=v16_homeslider] but found [http://www.prestashop.com/?utm_source=v16_homeslider]
+	at com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider2_HP(HomepageTest.java:174)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHomepageSlider2_HP">
+                  </a> <!-- validateHomepageSlider2_HP -->
+                  <span class="method-name">validateHomepageSlider2_HP</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [https://www.prestashop.com/en?utm_source=v16_homeslider] but found [http://www.prestashop.com/?utm_source=v16_homeslider]
+	at com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider2_HP(HomepageTest.java:174)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHomepageSlider3_HP">
+                  </a> <!-- validateHomepageSlider3_HP -->
+                  <span class="method-name">validateHomepageSlider3_HP</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [https://www.prestashop.com/en?utm_source=v16_homeslider] but found [http://www.prestashop.com/?utm_source=v16_homeslider]
+	at com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider3_HP(HomepageTest.java:186)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHomepageSlider3_HP">
+                  </a> <!-- validateHomepageSlider3_HP -->
+                  <span class="method-name">validateHomepageSlider3_HP</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [https://www.prestashop.com/en?utm_source=v16_homeslider] but found [http://www.prestashop.com/?utm_source=v16_homeslider]
+	at com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider3_HP(HomepageTest.java:186)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 22 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Test-class-failed -->
+          <div class="suite-Test-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateLoginProcess_SIP">
+                  </a> <!-- validateLoginProcess_SIP -->
+                  <span class="method-name">validateLoginProcess_SIP</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: connection refused
+Build info: version: &apos;3.9.1&apos;, revision: &apos;63f7b50&apos;, time: &apos;2018-02-07T22:25:02.294Z&apos;
+System info: host: &apos;DESKTOP-MUQUGSJ&apos;, ip: &apos;192.168.42.166&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_131&apos;
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:123)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:207)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:130)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:125)
+	at com.a3hp.automationpracticee.framework.genericclasses.UI_GenericMethods1.getFirefoxDriver(UI_GenericMethods1.java:351)
+	at com.a3hp.automationpracticee.framework.genericclasses.UI_GenericMethods1.gm_LaunchBrowser(UI_GenericMethods1.java:199)
+	at com.a3hp.automationpracticee.framework.genericclasses.UI_GenericMethods1.gm_OpenApp(UI_GenericMethods1.java:238)
+	at com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.getBrowser(SignInTest.java:66)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 23 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Test-class-skipped -->
+          <div class="suite-Test-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateForgotPasswordPage_PageHeading_FP">
+                  </a> <!-- validateForgotPasswordPage_PageHeading_FP -->
+                  <span class="method-name">validateForgotPasswordPage_PageHeading_FP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateForgotPasswordPage_PageHeading_FP">
+                  </a> <!-- validateForgotPasswordPage_PageHeading_FP -->
+                  <span class="method-name">validateForgotPasswordPage_PageHeading_FP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Test-class-passed -->
+          <div class="suite-Test-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.a3hp.automationpracticee.framework.test.homepage.HomepageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateGetSavingNowButton_HP">
+                  </a> <!-- validateGetSavingNowButton_HP -->
+                  <span class="method-name">validateGetSavingNowButton_HP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateGetSavingNowButton_HP">
+                  </a> <!-- validateGetSavingNowButton_HP -->
+                  <span class="method-name">validateGetSavingNowButton_HP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHeaderSignInLink_HP">
+                  </a> <!-- validateHeaderSignInLink_HP -->
+                  <span class="method-name">validateHeaderSignInLink_HP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateHeaderSignInLink_HP">
+                  </a> <!-- validateHeaderSignInLink_HP -->
+                  <span class="method-name">validateHeaderSignInLink_HP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateSearchField_HP">
+                  </a> <!-- validateSearchField_HP -->
+                  <span class="method-name">validateSearchField_HP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateSearchField_HP">
+                  </a> <!-- validateSearchField_HP -->
+                  <span class="method-name">validateSearchField_HP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Test-class-passed -->
+          <div class="suite-Test-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateLoginProcess_SIP">
+                  </a> <!-- validateLoginProcess_SIP -->
+                  <span class="method-name">validateLoginProcess_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateRegistrationSectionHeading_SignInPage_SIP">
+                  </a> <!-- validateRegistrationSectionHeading_SignInPage_SIP -->
+                  <span class="method-name">validateRegistrationSectionHeading_SignInPage_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateRegistrationSectionHeading_SignInPage_SIP">
+                  </a> <!-- validateRegistrationSectionHeading_SignInPage_SIP -->
+                  <span class="method-name">validateRegistrationSectionHeading_SignInPage_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateSignInPageBreadcrumbText_SIP">
+                  </a> <!-- validateSignInPageBreadcrumbText_SIP -->
+                  <span class="method-name">validateSignInPageBreadcrumbText_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateSignInPageBreadcrumbText_SIP">
+                  </a> <!-- validateSignInPageBreadcrumbText_SIP -->
+                  <span class="method-name">validateSignInPageBreadcrumbText_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateSignInPage_PageHeading_SIP">
+                  </a> <!-- validateSignInPage_PageHeading_SIP -->
+                  <span class="method-name">validateSignInPage_PageHeading_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateSignInPage_PageHeading_SIP">
+                  </a> <!-- validateSignInPage_PageHeading_SIP -->
+                  <span class="method-name">validateSignInPage_PageHeading_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateSignInPage_SignInSectionHeading_SIP">
+                  </a> <!-- validateSignInPage_SignInSectionHeading_SIP -->
+                  <span class="method-name">validateSignInPage_SignInSectionHeading_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateSignInPage_SignInSectionHeading_SIP">
+                  </a> <!-- validateSignInPage_SignInSectionHeading_SIP -->
+                  <span class="method-name">validateSignInPage_SignInSectionHeading_SIP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Test-class-passed -->
+          <div class="suite-Test-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateBreadcrumbText_RP">
+                  </a> <!-- validateBreadcrumbText_RP -->
+                  <span class="method-name">validateBreadcrumbText_RP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateBreadcrumbText_RP">
+                  </a> <!-- validateBreadcrumbText_RP -->
+                  <span class="method-name">validateBreadcrumbText_RP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validatePageHeading_RP">
+                  </a> <!-- validatePageHeading_RP -->
+                  <span class="method-name">validatePageHeading_RP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validatePageHeading_RP">
+                  </a> <!-- validatePageHeading_RP -->
+                  <span class="method-name">validatePageHeading_RP</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Test-class-passed -->
+        </div> <!-- panel Test -->
+        <div panel-name="test-xml-Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">G:\QA\AutomationTools\Selenium\WorkspaceMars1\A3hp.com.automationprac\testngsample1.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;1&quot; guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Test&quot; parallel=&quot;tests&quot;&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;CHTest1-SignInTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;OSName&quot; value=&quot;WINDOWS&quot;/&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;http://automationpractice.com/index.php&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;CH&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;txt&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- CHTest1-SignInTest --&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;CHTest2-HomepageTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;OSName&quot; value=&quot;WINDOWS&quot;/&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;http://automationpractice.com/index.php&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;CH&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;txt&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.a3hp.automationpracticee.framework.test.homepage.HomepageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- CHTest2-HomepageTest --&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;FFTest1-SignInTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;OSName&quot; value=&quot;WINDOWS&quot;/&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;http://automationpractice.com/index.php&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;FF&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;txt&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- FFTest1-SignInTest --&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;FFTest2-HomepageTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;OSName&quot; value=&quot;WINDOWS&quot;/&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;http://automationpractice.com/index.php&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;FF&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;txt&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.a3hp.automationpracticee.framework.test.homepage.HomepageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- FFTest2-HomepageTest --&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;CHTest3-RegistrationTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;OSName&quot; value=&quot;WINDOWS&quot;/&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;http://automationpractice.com/index.php&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;CH&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;txt&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- CHTest3-RegistrationTest --&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;FFTest3-RegistrationTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;OSName&quot; value=&quot;WINDOWS&quot;/&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;http://automationpractice.com/index.php&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;FF&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;txt&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- FFTest3-RegistrationTest --&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;FFTest4-ForgotPasswordTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;OSName&quot; value=&quot;WINDOWS&quot;/&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;http://automationpractice.com/index.php&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;FF&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;txt&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- FFTest4-ForgotPasswordTest --&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;CHTest4-ForgotPasswordTest&quot; parallel=&quot;tests&quot;&gt;
+    &lt;parameter name=&quot;OSName&quot; value=&quot;WINDOWS&quot;/&gt;
+    &lt;parameter name=&quot;URL&quot; value=&quot;http://automationpractice.com/index.php&quot;/&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;CH&quot;/&gt;
+    &lt;groups&gt;
+      &lt;run&gt;
+        &lt;include name=&quot;smoke&quot;/&gt;
+        &lt;include name=&quot;txt&quot;/&gt;
+      &lt;/run&gt;
+    &lt;/groups&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- CHTest4-ForgotPasswordTest --&gt;
+&lt;/suite&gt; &lt;!-- Test --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">CHTest1-SignInTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">CHTest2-HomepageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">FFTest1-SignInTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">FFTest2-HomepageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">CHTest3-RegistrationTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">FFTest3-RegistrationTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">FFTest4-ForgotPasswordTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">CHTest4-ForgotPasswordTest (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">ForgotPasswordpage_func</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateforgotPasswordProcess_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">ForgotPasswordpage_smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateforgotPasswordProcess_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">ForgotPasswordpage_txt</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateForgotPasswordPage_PageHeading_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">High</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateGetSavingNowButton_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHeaderSignInLink_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider1_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider2_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSearchField_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">Homepage_func</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateGetSavingNowButton_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHeaderSignInLink_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageCarouselBlocks_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider1_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider2_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider3_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSearchField_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">Homepage_smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateGetSavingNowButton_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHeaderSignInLink_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider1_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSearchField_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">Low</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateBreadcrumbText_RP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateForgotPasswordPage_PageHeading_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validatePageHeading_RP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateRegistrationSectionHeading_SignInPage_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPageBreadcrumbText_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPage_PageHeading_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPage_SignInSectionHeading_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">Medium</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageCarouselBlocks_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider3_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">Registrationpage_txt</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateBreadcrumbText_RP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validatePageHeading_RP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">SignInpage_func</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateLoginProcess_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">SignInpage_smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateLoginProcess_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">SignInpage_txt</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateRegistrationSectionHeading_SignInPage_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPageBreadcrumbText_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPage_PageHeading_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPage_SignInSectionHeading_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">createaccountandlogin</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateBreadcrumbText_RP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateForgotPasswordPage_PageHeading_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateLoginProcess_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validatePageHeading_RP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateRegistrationSectionHeading_SignInPage_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPageBreadcrumbText_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPage_PageHeading_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPage_SignInSectionHeading_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateforgotPasswordProcess_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">func</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateGetSavingNowButton_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHeaderSignInLink_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageCarouselBlocks_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider1_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider2_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider3_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateLoginProcess_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSearchField_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateforgotPasswordProcess_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateGetSavingNowButton_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHeaderSignInLink_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageCarouselBlocks_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider1_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider2_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateHomepageSlider3_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateLoginProcess_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateRegistrationSectionHeading_SignInPage_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSearchField_HP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateforgotPasswordProcess_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">txt</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateBreadcrumbText_RP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateForgotPasswordPage_PageHeading_FP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validatePageHeading_RP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPageBreadcrumbText_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPage_PageHeading_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">validateSignInPage_SignInSectionHeading_SIP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Test');
+function tableData_Test() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(32);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'validateforgotPasswordProcess_FP')
+data.setCell(0, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest')
+data.setCell(0, 3, 403906);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'validateHomepageCarouselBlocks_HP')
+data.setCell(1, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(1, 3, 184659);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'validateHomepageCarouselBlocks_HP')
+data.setCell(2, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(2, 3, 152792);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'validateSignInPage_PageHeading_SIP')
+data.setCell(3, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(3, 3, 74031);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'validateGetSavingNowButton_HP')
+data.setCell(4, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(4, 3, 57714);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'validateGetSavingNowButton_HP')
+data.setCell(5, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(5, 3, 32962);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'validateHomepageSlider3_HP')
+data.setCell(6, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(6, 3, 31712);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'validateHeaderSignInLink_HP')
+data.setCell(7, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(7, 3, 30800);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'validateHomepageSlider3_HP')
+data.setCell(8, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(8, 3, 30351);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'validateHeaderSignInLink_HP')
+data.setCell(9, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(9, 3, 29160);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'validateHomepageSlider1_HP')
+data.setCell(10, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(10, 3, 27330);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'validateHomepageSlider2_HP')
+data.setCell(11, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(11, 3, 26518);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'validateHomepageSlider2_HP')
+data.setCell(12, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(12, 3, 26166);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'validateHomepageSlider1_HP')
+data.setCell(13, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(13, 3, 25789);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'validateForgotPasswordPage_PageHeading_FP')
+data.setCell(14, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest')
+data.setCell(14, 3, 15585);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'validateSearchField_HP')
+data.setCell(15, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(15, 3, 8313);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'validateSearchField_HP')
+data.setCell(16, 2, 'com.a3hp.automationpracticee.framework.test.homepage.HomepageTest')
+data.setCell(16, 3, 7443);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'validateLoginProcess_SIP')
+data.setCell(17, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(17, 3, 3208);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'validatePageHeading_RP')
+data.setCell(18, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest')
+data.setCell(18, 3, 1036);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'validateBreadcrumbText_RP')
+data.setCell(19, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest')
+data.setCell(19, 3, 980);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'validateForgotPasswordPage_PageHeading_FP')
+data.setCell(20, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest')
+data.setCell(20, 3, 967);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'validateSignInPageBreadcrumbText_SIP')
+data.setCell(21, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(21, 3, 887);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'validateSignInPage_SignInSectionHeading_SIP')
+data.setCell(22, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(22, 3, 834);
+data.setCell(23, 0, 23)
+data.setCell(23, 1, 'validateRegistrationSectionHeading_SignInPage_SIP')
+data.setCell(23, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(23, 3, 833);
+data.setCell(24, 0, 24)
+data.setCell(24, 1, 'validateRegistrationSectionHeading_SignInPage_SIP')
+data.setCell(24, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(24, 3, 608);
+data.setCell(25, 0, 25)
+data.setCell(25, 1, 'validateSignInPage_PageHeading_SIP')
+data.setCell(25, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(25, 3, 446);
+data.setCell(26, 0, 26)
+data.setCell(26, 1, 'validateBreadcrumbText_RP')
+data.setCell(26, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest')
+data.setCell(26, 3, 422);
+data.setCell(27, 0, 27)
+data.setCell(27, 1, 'validateforgotPasswordProcess_FP')
+data.setCell(27, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest')
+data.setCell(27, 3, 420);
+data.setCell(28, 0, 28)
+data.setCell(28, 1, 'validateSignInPageBreadcrumbText_SIP')
+data.setCell(28, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(28, 3, 408);
+data.setCell(29, 0, 29)
+data.setCell(29, 1, 'validateSignInPage_SignInSectionHeading_SIP')
+data.setCell(29, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(29, 3, 369);
+data.setCell(30, 0, 30)
+data.setCell(30, 1, 'validatePageHeading_RP')
+data.setCell(30, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest')
+data.setCell(30, 3, 365);
+data.setCell(31, 0, 31)
+data.setCell(31, 1, 'validateLoginProcess_SIP')
+data.setCell(31, 2, 'com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest')
+data.setCell(31, 3, 0);
+window.suiteTableData['Test']= { tableData: data, tableDiv: 'times-div-Test'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 19 minutes</span>
+              <div id="times-div-Test">
+              </div> <!-- times-div-Test -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">4 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">validateBackToLoginButton_FP</span>
+                <br/>
+                <span class="ignored-method-name">validateBackToLoginButton_FP</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">validateForgotPasswordLink_SIP</span>
+                <br/>
+                <span class="ignored-method-name">validateForgotPasswordLink_SIP</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">BeforeSuite</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateSig...)</span>
+                <span class="method-start">149 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">152 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateSignInPage_PageHeading_SIP</span>
+                <span class="method-start">16986 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateSignInPage_PageHeading_SIP status=SUCCESS method=SignInTest.validateSignInP...)</span>
+                <span class="method-start">91020 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateSig...)</span>
+                <span class="method-start">94287 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">94287 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateSignInPage_SignInSectionHeading_SIP</span>
+                <span class="method-start">149827 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateSignInPage_SignInSectionHeading_SIP status=SUCCESS method=SignInTest.valida...)</span>
+                <span class="method-start">150662 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateSig...)</span>
+                <span class="method-start">151980 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">151981 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateSignInPageBreadcrumbText_SIP</span>
+                <span class="method-start">199934 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateSignInPageBreadcrumbText_SIP status=SUCCESS method=SignInTest.validateSignI...)</span>
+                <span class="method-start">200822 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateReg...)</span>
+                <span class="method-start">202045 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">202045 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateRegistrationSectionHeading_SignInPage_SIP</span>
+                <span class="method-start">258965 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateRegistrationSectionHeading_SignInPage_SIP status=SUCCESS method=SignInTest....)</span>
+                <span class="method-start">259799 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateLog...)</span>
+                <span class="method-start">260994 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">260995 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateLoginProcess_SIP</span>
+                <span class="method-start">311606 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateLoginProcess_SIP status=SUCCESS method=SignInTest.validateLoginProcess_SIP(...)</span>
+                <span class="method-start">314816 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.a3hp.automationpracticee.framework.test.homepage.HomepageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHeaderSignInLi...)</span>
+                <span class="method-start">316118 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">316119 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateHeaderSignInLink_HP</span>
+                <span class="method-start">354222 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHeaderSignInLink_HP status=SUCCESS method=HomepageTest.validateHeaderSignIn...)</span>
+                <span class="method-start">383383 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateGetSavingNowBu...)</span>
+                <span class="method-start">384579 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">384580 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateGetSavingNowButton_HP</span>
+                <span class="method-start">455700 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateGetSavingNowButton_HP status=SUCCESS method=HomepageTest.validateGetSavingN...)</span>
+                <span class="method-start">513415 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateSearchField_HP...)</span>
+                <span class="method-start">514986 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">514986 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateSearchField_HP</span>
+                <span class="method-start">562052 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateSearchField_HP status=SUCCESS method=HomepageTest.validateSearchField_HP()[...)</span>
+                <span class="method-start">570366 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider...)</span>
+                <span class="method-start">571749 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">571750 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateHomepageSlider1_HP</span>
+                <span class="method-start">643671 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHomepageSlider1_HP status=FAILURE method=HomepageTest.validateHomepageSlide...)</span>
+                <span class="method-start">671016 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider...)</span>
+                <span class="method-start">672182 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">672182 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateHomepageSlider2_HP</span>
+                <span class="method-start">756459 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHomepageSlider2_HP status=FAILURE method=HomepageTest.validateHomepageSlide...)</span>
+                <span class="method-start">782978 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider...)</span>
+                <span class="method-start">784233 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">784234 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateHomepageSlider3_HP</span>
+                <span class="method-start">857846 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHomepageSlider3_HP status=FAILURE method=HomepageTest.validateHomepageSlide...)</span>
+                <span class="method-start">888199 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageCarous...)</span>
+                <span class="method-start">889401 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">889401 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateHomepageCarouselBlocks_HP</span>
+                <span class="method-start">1007907 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHomepageCarouselBlocks_HP status=FAILURE method=HomepageTest.validateHomepa...)</span>
+                <span class="method-start">1192572 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateSig...)</span>
+                <span class="method-start">1194451 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">1194452 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateSignInPage_PageHeading_SIP</span>
+                <span class="method-start">1319743 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateSignInPage_PageHeading_SIP status=SUCCESS method=SignInTest.validateSignInP...)</span>
+                <span class="method-start">1320190 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateSig...)</span>
+                <span class="method-start">1323434 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">1323435 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateSignInPage_SignInSectionHeading_SIP</span>
+                <span class="method-start">1466313 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateSignInPage_SignInSectionHeading_SIP status=SUCCESS method=SignInTest.valida...)</span>
+                <span class="method-start">1466683 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateSig...)</span>
+                <span class="method-start">1468780 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">1468781 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateSignInPageBreadcrumbText_SIP</span>
+                <span class="method-start">1647152 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateSignInPageBreadcrumbText_SIP status=SUCCESS method=SignInTest.validateSignI...)</span>
+                <span class="method-start">1647563 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateReg...)</span>
+                <span class="method-start">1649640 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">1649641 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateRegistrationSectionHeading_SignInPage_SIP</span>
+                <span class="method-start">1881377 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateRegistrationSectionHeading_SignInPage_SIP status=SUCCESS method=SignInTest....)</span>
+                <span class="method-start">1881986 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.validateLog...)</span>
+                <span class="method-start">1884765 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">1884765 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method after">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">publishReport_SIP([TestResult name={null} status=CREATED method=SignInTest.validateLoginProcess_SIP()[pri:4, instance:...)</span>
+                <span class="method-start">1988115 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.a3hp.automationpracticee.framework.test.homepage.HomepageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHeaderSignInLi...)</span>
+                <span class="method-start">1989013 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">1989013 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateHeaderSignInLink_HP</span>
+                <span class="method-start">2166211 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHeaderSignInLink_HP status=SUCCESS method=HomepageTest.validateHeaderSignIn...)</span>
+                <span class="method-start">2197012 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateGetSavingNowBu...)</span>
+                <span class="method-start">2199817 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">2199818 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateGetSavingNowButton_HP</span>
+                <span class="method-start">2317897 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateGetSavingNowButton_HP status=SUCCESS method=HomepageTest.validateGetSavingN...)</span>
+                <span class="method-start">2350860 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateSearchField_HP...)</span>
+                <span class="method-start">2353680 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">2353681 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateSearchField_HP</span>
+                <span class="method-start">2494971 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateSearchField_HP status=SUCCESS method=HomepageTest.validateSearchField_HP()[...)</span>
+                <span class="method-start">2502414 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider...)</span>
+                <span class="method-start">2505033 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">2505033 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateHomepageSlider1_HP</span>
+                <span class="method-start">2677382 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHomepageSlider1_HP status=FAILURE method=HomepageTest.validateHomepageSlide...)</span>
+                <span class="method-start">2703175 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider...)</span>
+                <span class="method-start">2705955 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">2705955 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateHomepageSlider2_HP</span>
+                <span class="method-start">2852605 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHomepageSlider2_HP status=FAILURE method=HomepageTest.validateHomepageSlide...)</span>
+                <span class="method-start">2878772 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageSlider...)</span>
+                <span class="method-start">2881613 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">2881613 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateHomepageSlider3_HP</span>
+                <span class="method-start">3048002 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHomepageSlider3_HP status=FAILURE method=HomepageTest.validateHomepageSlide...)</span>
+                <span class="method-start">3079716 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.homepage.HomepageTest.validateHomepageCarous...)</span>
+                <span class="method-start">3082111 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">3082111 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateHomepageCarouselBlocks_HP</span>
+                <span class="method-start">3262470 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_HP([TestResult name=validateHomepageCarouselBlocks_HP status=FAILURE method=HomepageTest.validateHomepa...)</span>
+                <span class="method-start">3415275 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest.valid...)</span>
+                <span class="method-start">3425609 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">3425609 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validatePageHeading_RP</span>
+                <span class="method-start">3491701 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validatePageHeading_RP status=SUCCESS method=RegistrationTest.validatePageHeading_R...)</span>
+                <span class="method-start">3492738 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest.valid...)</span>
+                <span class="method-start">3494292 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">3494293 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateBreadcrumbText_RP</span>
+                <span class="method-start">3558862 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateBreadcrumbText_RP status=SUCCESS method=RegistrationTest.validateBreadcrumb...)</span>
+                <span class="method-start">3559843 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest.valid...)</span>
+                <span class="method-start">3561410 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">3561410 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validatePageHeading_RP</span>
+                <span class="method-start">3707096 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validatePageHeading_RP status=SUCCESS method=RegistrationTest.validatePageHeading_R...)</span>
+                <span class="method-start">3707537 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest.valid...)</span>
+                <span class="method-start">3713435 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">3713436 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateBreadcrumbText_RP</span>
+                <span class="method-start">3872066 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateBreadcrumbText_RP status=SUCCESS method=RegistrationTest.validateBreadcrumb...)</span>
+                <span class="method-start">3872490 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest.val...)</span>
+                <span class="method-start">3879324 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">3879347 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateForgotPasswordPage_PageHeading_FP</span>
+                <span class="method-start">4059884 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateForgotPasswordPage_PageHeading_FP status=SUCCESS method=ForgotPasswordTest....)</span>
+                <span class="method-start">4060852 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest.val...)</span>
+                <span class="method-start">4064458 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(FF, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">4064459 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateforgotPasswordProcess_FP</span>
+                <span class="method-start">4199376 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateforgotPasswordProcess_FP status=FAILURE method=ForgotPasswordTest.validatef...)</span>
+                <span class="method-start">4603326 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest.val...)</span>
+                <span class="method-start">4606105 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">4606105 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">validateForgotPasswordPage_PageHeading_FP</span>
+                <span class="method-start">4743356 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateForgotPasswordPage_PageHeading_FP status=SUCCESS method=ForgotPasswordTest....)</span>
+                <span class="method-start">4758964 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">BeforeMethodTB(public void com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest.val...)</span>
+                <span class="method-start">4762443 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">getBrowser(CH, http://automationpractice.com/index.php, WINDOWS)</span>
+                <span class="method-start">4762443 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validateforgotPasswordProcess_FP</span>
+                <span class="method-start">4891962 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">publishReport_SIP([TestResult name=validateforgotPasswordProcess_FP status=FAILURE method=ForgotPasswordTest.validatef...)</span>
+                <span class="method-start">4892384 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-suite after">
+                <span class="method-name">tearDown(org.testng.TestRunner@1725dc0f)</span>
+                <span class="method-start">4895702 ms</span>
+              </div> <!-- configuration-suite after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">validateLoginProcess_SIP</span>
+                <span class="method-start">-1540826039503 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

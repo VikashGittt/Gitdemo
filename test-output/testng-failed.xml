@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Test]" parallel="tests">
+  <test thread-count="1" name="CHTest2-HomepageTest(failed)" parallel="tests">
+    <parameter name="OSName" value="WINDOWS"/>
+    <parameter name="URL" value="http://automationpractice.com/index.php"/>
+    <parameter name="Browser" value="CH"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="txt"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest">
+        <methods>
+          <include name="validateHomepageSlider3_HP"/>
+          <include name="tearDown"/>
+          <include name="BeforeMethodTB"/>
+          <include name="validateHomepageCarouselBlocks_HP"/>
+          <include name="validateHomepageSlider1_HP"/>
+          <include name="getBrowser"/>
+          <include name="validateHomepageSlider2_HP"/>
+          <include name="BeforeSuite"/>
+          <include name="publishReport_HP"/>
+        </methods>
+      </class> <!-- com.a3hp.automationpracticee.framework.test.homepage.HomepageTest -->
+    </classes>
+  </test> <!-- CHTest2-HomepageTest(failed) -->
+  <test thread-count="1" name="FFTest1-SignInTest(failed)" parallel="tests">
+    <parameter name="OSName" value="WINDOWS"/>
+    <parameter name="URL" value="http://automationpractice.com/index.php"/>
+    <parameter name="Browser" value="FF"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="txt"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="BeforeMethodTB"/>
+          <include name="getBrowser"/>
+          <include name="validateLoginProcess_SIP"/>
+          <include name="BeforeSuite"/>
+          <include name="publishReport_SIP"/>
+        </methods>
+      </class> <!-- com.a3hp.automationpracticee.framework.test.createaccountandlogin.SignInTest -->
+    </classes>
+  </test> <!-- FFTest1-SignInTest(failed) -->
+  <test thread-count="1" name="FFTest2-HomepageTest(failed)" parallel="tests">
+    <parameter name="OSName" value="WINDOWS"/>
+    <parameter name="URL" value="http://automationpractice.com/index.php"/>
+    <parameter name="Browser" value="FF"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="txt"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.a3hp.automationpracticee.framework.test.homepage.HomepageTest">
+        <methods>
+          <include name="validateHomepageSlider3_HP"/>
+          <include name="tearDown"/>
+          <include name="BeforeMethodTB"/>
+          <include name="validateHomepageCarouselBlocks_HP"/>
+          <include name="validateHomepageSlider1_HP"/>
+          <include name="getBrowser"/>
+          <include name="validateHomepageSlider2_HP"/>
+          <include name="BeforeSuite"/>
+          <include name="publishReport_HP"/>
+        </methods>
+      </class> <!-- com.a3hp.automationpracticee.framework.test.homepage.HomepageTest -->
+    </classes>
+  </test> <!-- FFTest2-HomepageTest(failed) -->
+  <test thread-count="1" name="FFTest4-ForgotPasswordTest(failed)" parallel="tests">
+    <parameter name="OSName" value="WINDOWS"/>
+    <parameter name="URL" value="http://automationpractice.com/index.php"/>
+    <parameter name="Browser" value="FF"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="txt"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest">
+        <methods>
+          <include name="publishReport_SIP"/>
+          <include name="tearDown"/>
+          <include name="BeforeMethodTB"/>
+          <include name="getBrowser"/>
+          <include name="validateforgotPasswordProcess_FP"/>
+          <include name="BeforeSuite"/>
+        </methods>
+      </class> <!-- com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest -->
+    </classes>
+  </test> <!-- FFTest4-ForgotPasswordTest(failed) -->
+  <test thread-count="1" name="CHTest4-ForgotPasswordTest(failed)" parallel="tests">
+    <parameter name="OSName" value="WINDOWS"/>
+    <parameter name="URL" value="http://automationpractice.com/index.php"/>
+    <parameter name="Browser" value="CH"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="txt"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest">
+        <methods>
+          <include name="publishReport_SIP"/>
+          <include name="tearDown"/>
+          <include name="BeforeMethodTB"/>
+          <include name="getBrowser"/>
+          <include name="validateforgotPasswordProcess_FP"/>
+          <include name="BeforeSuite"/>
+        </methods>
+      </class> <!-- com.a3hp.automationpracticee.framework.test.createaccountandlogin.ForgotPasswordTest -->
+    </classes>
+  </test> <!-- CHTest4-ForgotPasswordTest(failed) -->
+</suite> <!-- Failed suite [Test] -->

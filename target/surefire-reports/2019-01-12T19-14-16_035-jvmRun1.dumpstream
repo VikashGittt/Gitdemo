@@ -1,0 +1,89 @@
+# Created on 2019-01-12T19:14:31.787
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2019-01-12T19:14:31.821
+Unexpected IOException with stream: URL done
+
+
+# Created on 2019-01-12T19:14:31.821
+Unexpected IOException with stream: Now Homepage is in display
+
+
+# Created on 2019-01-12T19:14:31.827
+Unexpected IOException with stream: 1
+
+
+# Created on 2019-01-12T19:14:31.827
+Unexpected IOException with stream: 2
+
+
+# Created on 2019-01-12T19:14:31.845
+Unexpected IOException with stream: *******Now navigate to login page*******
+
+
+# Created on 2019-01-12T19:14:31.845
+Unexpected IOException with stream: In navigateToSignInPage
+
+
+# Created on 2019-01-12T19:14:31.893
+Unexpected IOException: 8,1,com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest,getBrowser(com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb)\002Cplatform=Windows NT 10.0.10240 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.9.1'\002C revision: '63f7b50'\002C time: '2018-02-07T22:25:02.294Z'\000ASystem info: host: 'DESKTOP-MUQUGSJ'\002C ip: '192.168.42.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: true\002C acceptSslCerts: true\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: accept\002C unhandledPromptBehavior: accept\002C version: 71.0.3578.98\002C webStorageEnabled: true}\000ASession ID: 9ef5e14348626c92c3fd61be6c18e18c,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb)\002Cplatform=Windows NT 10.0.10240 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.9.1'\002C revision: '63f7b50'\002C time: '2018-02-07T22:25:02.294Z'\000ASystem info: host: 'DESKTOP-MUQUGSJ'\002C ip: '192.168.42.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: true\002C acceptSslCerts: true\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: accept\002C unhandledPromptBehavior: accept\002C version: 71.0.3578.98\002C webStorageEnabled: true}\000ASession ID: 9ef5e14348626c92c3fd61be6c18e18c,RegistrationTest.getBrowser:41 \00BB NoSuchWindow no such window: target window al...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb)\002Cplatform=Windows NT 10.0.10240 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.9.1'\002C revision: '63f7b50'\002C time: '2018-02-07T22:25:02.294Z'\000ASystem info: host: 'DESKTOP-MUQUGSJ'\002C ip: '192.168.42.234'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_131'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: true\002C acceptSslCerts: true\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: accept\002C unhandledPromptBehavior: accept\002C version: 71.0.3578.98\002C webStorageEnabled: true}\000ASession ID: 9ef5e14348626c92c3fd61be6c18e18c\000A\0009at com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest.getBrowser(RegistrationTest.java:41)\000A
+
+
+# Created on 2019-01-12T19:14:31.894
+Unexpected IOException with stream: validatePageHeading_RP onTestSkipped
+
+
+# Created on 2019-01-12T19:14:31.894
+Unexpected IOException with stream: result.getStatus() = 3
+
+
+# Created on 2019-01-12T19:14:31.896
+Unexpected IOException with stream: validatePageHeading_RP onTestFailure
+
+
+# Created on 2019-01-12T19:14:31.896
+Unexpected IOException with stream: null--FAILED
+
+
+# Created on 2019-01-12T19:14:31.934
+Unexpected IOException with stream: CHTest3-RegistrationTest onFinish
+
+
+# Created on 2019-01-12T19:14:31.934
+Unexpected IOException with stream: FFTest3-RegistrationTest onStart
+
+
+# Created on 2019-01-12T19:14:31.935
+Unexpected IOException with stream: In @BeforeClass 
+
+
+# Created on 2019-01-12T19:14:31.935
+Unexpected IOException with stream: className = com.a3hp.automationpracticee.framework.test.createaccountandlogin.RegistrationTest
+
+
+# Created on 2019-01-12T19:14:31.936
+Unexpected IOException with stream: In @BeforeMethod -- testBase-setUp Method
+
+
+# Created on 2019-01-12T19:14:31.936
+Unexpected IOException with stream: getBrowser Method 
+
+
+# Created on 2019-01-12T19:14:31.937
+Unexpected IOException with stream: Launch http://automationpractice.com/index.php on FF on WINDOWS
+
+
+# Created on 2019-01-12T19:14:31.937
+Unexpected IOException with stream: In gm_OpenAp Method
+
+
+# Created on 2019-01-12T19:14:31.937
+Unexpected IOException with stream: FF -- http://automationpractice.com/index.php
+
+

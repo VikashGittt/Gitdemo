@@ -1,0 +1,1048 @@
+
+2018-11-11 05:45:20,403 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 05:45:40,082 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 05:46:09,448 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-11 05:46:09,471 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-11 05:46:14,301 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 05:46:30,995 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 05:46:39,220 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 06:03:19,780 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 06:03:38,586 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 06:04:07,554 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-11 06:04:07,590 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-11 06:04:11,918 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 06:04:30,891 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 06:19:20,673 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 06:19:40,500 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 06:20:12,020 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-11 06:20:12,045 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-11 06:20:18,370 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 06:20:40,547 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 07:01:52,575 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 07:02:10,044 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 07:02:39,993 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-11 07:02:40,023 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-11 07:02:44,350 INFO  [HomepageTest] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_11__2018_7_02_41_AM.png 
+2018-11-11 07:02:50,737 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 07:26:39,589 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 07:26:50,790 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 07:29:45,365 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-11 07:29:45,397 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-11 07:29:49,454 INFO  [HomepageTest] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_11__2018_7_29_46_AM.png 
+2018-11-11 07:29:58,577 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 23:09:53,183 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 23:10:41,210 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 23:11:14,867 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-11 23:11:14,896 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-11 23:23:45,400 INFO  [HomepageTest] Chrome has been launched 
+2018-11-11 23:24:07,806 INFO  [HomepageTest] Homepage is in display 
+2018-11-11 23:24:51,459 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-11 23:24:51,490 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 00:49:14,895 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 00:49:35,553 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 00:50:07,895 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 00:50:07,936 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 02:08:55,483 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 02:09:06,941 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 02:10:44,714 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 02:10:45,037 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 02:13:42,929 INFO  [HomepageTest] Firefox has been launched 
+2018-11-12 02:14:02,262 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 02:14:34,447 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 02:14:34,464 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 02:29:12,191 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 02:29:35,111 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 02:30:05,221 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 02:30:05,251 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 02:33:30,027 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 02:33:49,502 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 02:34:18,332 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 02:34:18,366 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 02:56:01,405 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 02:56:20,705 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 02:56:49,521 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 02:56:49,545 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 02:59:42,080 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 03:00:03,569 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 03:00:32,992 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 03:00:33,020 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 03:23:19,927 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 03:23:40,988 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 03:24:10,706 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 03:24:10,731 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 03:28:54,498 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 03:29:11,283 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 03:29:40,415 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 03:29:40,449 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 03:37:30,468 INFO  [HomepageTest] Firefox has been launched 
+2018-11-12 03:37:48,466 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 03:48:45,381 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 03:49:03,551 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 03:49:32,746 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 03:49:32,770 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 03:53:35,339 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 03:53:52,685 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 03:54:22,745 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 03:54:22,779 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 04:17:29,894 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 04:17:50,135 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 04:18:19,770 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 04:18:19,840 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 04:33:54,602 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 04:34:13,486 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 04:34:42,657 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 04:34:42,690 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 04:36:40,156 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 04:36:59,477 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 04:37:23,035 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 04:37:40,531 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 04:38:09,353 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 04:38:09,402 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 04:42:48,068 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 04:43:09,920 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 04:43:38,918 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 04:43:38,942 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 04:51:13,912 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 04:51:35,094 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 04:52:03,599 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 04:52:03,629 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 05:02:33,442 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 05:02:53,839 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 05:03:22,853 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 05:03:22,885 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 05:03:30,580 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_12__2018_5_03_24_AM.png 
+2018-11-12 05:03:30,928 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\SignInLink_Nov_12__2018_5_03_30_AM.png 
+2018-11-12 05:12:31,713 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 05:12:50,597 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 05:13:19,170 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 05:13:19,202 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 05:13:21,986 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_12__2018_5_13_19_AM.png 
+2018-11-12 05:13:22,363 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\SignInLink_Nov_12__2018_5_13_22_AM.png 
+2018-11-12 05:15:28,998 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 05:15:49,011 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 05:16:17,855 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 05:16:17,884 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 05:16:22,527 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_12__2018_5_16_18_AM.png 
+2018-11-12 05:16:28,426 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 05:16:45,061 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 05:17:13,461 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-12 05:17:13,619 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-12 05:17:15,846 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_12__2018_5_17_14_AM.png 
+2018-11-12 05:17:20,924 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 05:19:47,847 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 05:20:04,485 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 05:20:33,479 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 05:20:33,503 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-12 05:24:18,539 INFO  [HomepageTest] Chrome has been launched 
+2018-11-12 05:24:37,315 INFO  [HomepageTest] Homepage is in display 
+2018-11-12 05:25:06,605 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-12 05:25:06,634 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 01:53:28,925 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 01:53:51,188 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 01:54:21,144 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 01:54:21,173 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 02:14:21,871 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:14:40,353 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:15:10,611 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 02:15:10,638 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 02:33:58,658 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:34:16,171 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:39:55,953 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:40:15,975 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:40:45,084 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 02:40:45,110 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 02:43:19,795 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:43:40,748 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:44:12,373 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 02:44:12,407 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 02:44:16,933 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_13__2018_2_44_13_AM.png 
+2018-11-13 02:44:23,611 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:44:39,300 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:45:06,968 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-13 02:45:06,998 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-13 02:45:09,374 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_13__2018_2_45_08_AM.png 
+2018-11-13 02:45:14,165 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:45:19,310 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:45:23,650 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:45:39,614 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:45:44,128 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:46:03,353 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:46:07,410 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:46:24,731 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:48:14,614 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:48:36,078 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:49:05,135 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 02:49:05,159 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 02:49:09,143 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_13__2018_2_49_06_AM.png 
+2018-11-13 02:49:15,898 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:49:33,933 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:50:01,934 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-13 02:50:02,159 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-13 02:50:04,421 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_13__2018_2_50_03_AM.png 
+2018-11-13 02:50:10,501 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:50:26,337 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:50:28,133 INFO  [Homepage] Faded Short Sleeve T-shirtshas been entered/selected in Search_tbox 
+2018-11-13 02:50:33,195 INFO  [ListenersInSelenium] Screenshot of webelementFadedShortSleeveTshirts_lnktxt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\FadedShortSleeveTshirts_lnktxt_Nov_13__2018_2_50_32_AM.png 
+2018-11-13 02:50:37,726 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:50:54,303 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:51:33,035 INFO  [HomepageTest] Homepage_Slider1 -- clicked 
+2018-11-13 02:51:33,053 INFO  [HomepageTest] URL for elementNameHomepage_Slider1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 02:51:34,406 INFO  [ListenersInSelenium] Screenshot of webelementHomepage Slider1 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage Slider1_Nov_13__2018_2_51_33_AM.png 
+2018-11-13 02:51:38,964 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:51:55,741 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:52:32,435 INFO  [HomepageTest] Homepage_Slider2 -- clicked 
+2018-11-13 02:52:32,456 INFO  [HomepageTest] URL for elementNameHomepage_Slider2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 02:52:33,856 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider2 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider2_Nov_13__2018_2_52_33_AM.png 
+2018-11-13 02:52:39,780 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:52:57,528 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:53:33,458 INFO  [HomepageTest] Homepage_Slider3 -- clicked 
+2018-11-13 02:53:33,478 INFO  [HomepageTest] URL for elementNameHomepage_Slider3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 02:53:34,744 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider3_Nov_13__2018_2_53_34_AM.png 
+2018-11-13 02:53:39,005 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 02:53:57,173 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:54:33,066 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 02:54:33,084 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 02:55:06,684 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 02:55:06,706 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 02:55:41,438 INFO  [HomepageTest] sample_2 -- clicked 
+2018-11-13 02:55:41,459 INFO  [HomepageTest] URL for elementNamesample_2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 02:56:18,981 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 02:56:19,005 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 02:56:59,941 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 02:56:59,960 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 02:57:04,022 INFO  [ListenersInSelenium] Screenshot of webelementInsightBlockImageFunctionality is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\InsightBlockImageFunctionality_Nov_13__2018_2_57_02_AM.png 
+2018-11-13 02:58:12,387 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 02:58:31,772 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 02:59:02,710 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 02:59:02,723 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 02:59:03,225 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_13__2018_2_59_02_AM.png 
+2018-11-13 03:00:23,314 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 03:00:38,287 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:02:00,997 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-13 03:02:01,024 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-13 03:02:02,416 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_13__2018_3_02_01_AM.png 
+2018-11-13 03:03:19,209 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 03:03:39,529 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:03:40,413 INFO  [Homepage] Faded Short Sleeve T-shirtshas been entered/selected in Search_tbox 
+2018-11-13 03:03:45,297 INFO  [ListenersInSelenium] Screenshot of webelementFadedShortSleeveTshirts_lnktxt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\FadedShortSleeveTshirts_lnktxt_Nov_13__2018_3_03_44_AM.png 
+2018-11-13 03:04:51,757 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 03:05:14,407 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:05:40,210 INFO  [HomepageTest] Homepage_Slider1 -- clicked 
+2018-11-13 03:05:40,226 INFO  [HomepageTest] URL for elementNameHomepage_Slider1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:05:41,164 INFO  [ListenersInSelenium] Screenshot of webelementHomepage Slider1 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage Slider1_Nov_13__2018_3_05_40_AM.png 
+2018-11-13 03:07:07,361 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 03:07:25,470 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:07:51,714 INFO  [HomepageTest] Homepage_Slider2 -- clicked 
+2018-11-13 03:07:51,734 INFO  [HomepageTest] URL for elementNameHomepage_Slider2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:07:52,799 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider2 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider2_Nov_13__2018_3_07_52_AM.png 
+2018-11-13 03:09:07,093 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 03:09:30,157 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:09:58,577 INFO  [HomepageTest] Homepage_Slider3 -- clicked 
+2018-11-13 03:09:58,589 INFO  [HomepageTest] URL for elementNameHomepage_Slider3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:09:59,580 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider3_Nov_13__2018_3_09_59_AM.png 
+2018-11-13 03:11:03,350 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 03:11:21,729 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:11:54,193 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 03:11:54,209 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:12:26,247 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 03:12:26,264 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:12:55,749 INFO  [HomepageTest] sample_2 -- clicked 
+2018-11-13 03:12:55,775 INFO  [HomepageTest] URL for elementNamesample_2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:13:29,099 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 03:13:29,116 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:14:04,365 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 03:14:04,378 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:14:08,472 INFO  [ListenersInSelenium] Screenshot of webelementInsightBlockImageFunctionality is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\InsightBlockImageFunctionality_Nov_13__2018_3_14_07_AM.png 
+2018-11-13 03:37:37,394 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 03:37:50,491 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:39:51,734 INFO  [ListenersInSelenium] Screenshot of webelementSignIn_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignIn_PageHeading_txt_Nov_13__2018_3_39_48_AM.png 
+2018-11-13 03:39:58,445 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 03:40:19,369 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:40:25,341 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_SignInSectionHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_SignInSectionHeading_txt_Nov_13__2018_3_40_24_AM.png 
+2018-11-13 03:40:30,935 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 03:40:48,143 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:40:52,136 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_Breadcrumb_txt_Nov_13__2018_3_40_51_AM.png 
+2018-11-13 03:40:56,685 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 03:41:12,429 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:41:15,862 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationSectionHeading_SignInPage_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationSectionHeading_SignInPage_txt_Nov_13__2018_3_41_15_AM.png 
+2018-11-13 03:41:20,250 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 03:41:39,371 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:41:42,753 INFO  [SignInPage] testdunkin5@gmail.comhas been entered/selected in SignIn_Email_tbox 
+2018-11-13 03:41:43,112 INFO  [SignInPage] Qwertyui1has been entered/selected in SignIn_Password_tbox 
+2018-11-13 03:41:47,363 INFO  [ListenersInSelenium] Screenshot of webelementValidate Login Process_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Validate Login Process_txt_Nov_13__2018_3_41_46_AM.png 
+2018-11-13 03:43:54,070 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 03:44:14,719 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:44:37,727 INFO  [ListenersInSelenium] Screenshot of webelementSignIn_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignIn_PageHeading_txt_Nov_13__2018_3_44_21_AM.png 
+2018-11-13 03:46:29,675 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 03:46:51,136 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:46:58,401 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_SignInSectionHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_SignInSectionHeading_txt_Nov_13__2018_3_46_56_AM.png 
+2018-11-13 03:50:02,424 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 03:50:24,122 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:51:33,079 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 03:51:52,993 INFO  [SignInTest] Homepage is in display 
+2018-11-13 03:52:20,514 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 03:52:38,361 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:53:11,731 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 03:53:11,757 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 03:53:13,213 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_13__2018_3_53_12_AM.png 
+2018-11-13 03:53:18,652 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 03:53:36,482 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:54:05,290 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-13 03:54:05,423 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-13 03:54:07,621 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_13__2018_3_54_06_AM.png 
+2018-11-13 03:54:14,723 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 03:54:31,077 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:54:32,812 INFO  [Homepage] Faded Short Sleeve T-shirtshas been entered/selected in Search_tbox 
+2018-11-13 03:54:38,266 INFO  [ListenersInSelenium] Screenshot of webelementFadedShortSleeveTshirts_lnktxt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\FadedShortSleeveTshirts_lnktxt_Nov_13__2018_3_54_37_AM.png 
+2018-11-13 03:54:44,236 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 03:55:03,611 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:55:41,203 INFO  [HomepageTest] Homepage_Slider1 -- clicked 
+2018-11-13 03:55:41,214 INFO  [HomepageTest] URL for elementNameHomepage_Slider1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:55:42,455 INFO  [ListenersInSelenium] Screenshot of webelementHomepage Slider1 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage Slider1_Nov_13__2018_3_55_41_AM.png 
+2018-11-13 03:55:48,102 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 03:56:04,585 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:56:38,828 INFO  [HomepageTest] Homepage_Slider2 -- clicked 
+2018-11-13 03:56:38,848 INFO  [HomepageTest] URL for elementNameHomepage_Slider2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:56:40,173 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider2 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider2_Nov_13__2018_3_56_39_AM.png 
+2018-11-13 03:56:45,797 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 03:57:04,870 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:57:38,664 INFO  [HomepageTest] Homepage_Slider3 -- clicked 
+2018-11-13 03:57:38,711 INFO  [HomepageTest] URL for elementNameHomepage_Slider3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:57:40,164 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider3_Nov_13__2018_3_57_39_AM.png 
+2018-11-13 03:57:47,817 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 03:58:08,144 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 03:58:58,333 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 03:58:58,375 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 03:59:37,934 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 03:59:37,947 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 04:00:19,338 INFO  [HomepageTest] sample_2 -- clicked 
+2018-11-13 04:00:19,367 INFO  [HomepageTest] URL for elementNamesample_2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 04:00:59,590 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 04:00:59,609 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 04:01:41,950 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 04:01:41,967 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 04:01:48,508 INFO  [ListenersInSelenium] Screenshot of webelementInsightBlockImageFunctionality is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\InsightBlockImageFunctionality_Nov_13__2018_4_01_47_AM.png 
+2018-11-13 04:34:46,965 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 04:35:05,163 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 04:35:12,504 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 04:35:18,120 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_PageHeading_txt_Nov_13__2018_4_35_16_AM.png 
+2018-11-13 04:35:26,614 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 04:35:41,443 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 04:35:44,825 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 04:35:53,823 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_13__2018_4_35_48_AM.png 
+2018-11-13 04:38:10,668 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-13 04:38:33,200 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 04:38:46,006 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 04:38:53,549 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_PageHeading_txt_Nov_13__2018_4_38_52_AM.png 
+2018-11-13 04:40:57,580 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-13 04:41:21,708 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 04:41:27,728 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 04:41:38,031 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_13__2018_4_41_37_AM.png 
+2018-11-13 04:45:37,185 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-13 04:46:00,945 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-13 04:46:16,526 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_13__2018_4_46_14_AM.png 
+2018-11-13 04:46:24,981 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-13 04:46:42,811 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-13 04:46:49,341 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-13 04:46:53,973 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_13__2018_4_46_52_AM.png 
+2018-11-13 04:46:58,840 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 04:47:13,506 INFO  [SignInTest] Homepage is in display 
+2018-11-13 04:47:19,041 INFO  [ListenersInSelenium] Screenshot of webelementSignIn_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignIn_PageHeading_txt_Nov_13__2018_4_47_18_AM.png 
+2018-11-13 04:47:25,275 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 04:47:41,072 INFO  [SignInTest] Homepage is in display 
+2018-11-13 04:47:45,134 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_SignInSectionHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_SignInSectionHeading_txt_Nov_13__2018_4_47_44_AM.png 
+2018-11-13 04:47:49,782 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 04:48:07,117 INFO  [SignInTest] Homepage is in display 
+2018-11-13 04:48:11,802 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_Breadcrumb_txt_Nov_13__2018_4_48_11_AM.png 
+2018-11-13 04:48:17,342 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 04:48:34,706 INFO  [SignInTest] Homepage is in display 
+2018-11-13 04:48:39,002 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationSectionHeading_SignInPage_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationSectionHeading_SignInPage_txt_Nov_13__2018_4_48_38_AM.png 
+2018-11-13 04:48:43,893 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 04:49:00,460 INFO  [SignInTest] Homepage is in display 
+2018-11-13 04:49:04,375 INFO  [SignInPage] testdunkin5@gmail.comhas been entered/selected in SignIn_Email_tbox 
+2018-11-13 04:49:04,687 INFO  [SignInPage] Qwertyui1has been entered/selected in SignIn_Password_tbox 
+2018-11-13 04:49:09,379 INFO  [ListenersInSelenium] Screenshot of webelementValidate Login Process_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Validate Login Process_txt_Nov_13__2018_4_49_08_AM.png 
+2018-11-13 04:50:28,650 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 04:50:53,079 INFO  [SignInTest] Homepage is in display 
+2018-11-13 04:51:02,509 INFO  [ListenersInSelenium] Screenshot of webelementSignIn_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignIn_PageHeading_txt_Nov_13__2018_4_51_01_AM.png 
+2018-11-13 04:55:53,592 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 04:56:06,768 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 04:56:13,017 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 04:56:19,073 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_PageHeading_txt_Nov_13__2018_4_56_17_AM.png 
+2018-11-13 04:56:25,151 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 04:56:41,017 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 04:56:45,009 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 04:56:48,785 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_13__2018_4_56_48_AM.png 
+2018-11-13 04:58:20,182 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-13 04:58:41,298 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 04:58:45,018 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 04:58:50,043 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_PageHeading_txt_Nov_13__2018_4_58_49_AM.png 
+2018-11-13 05:07:33,941 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-13 05:08:05,767 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 05:08:38,613 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 05:09:14,773 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_PageHeading_txt_Nov_13__2018_5_08_53_AM.png 
+2018-11-13 05:57:14,704 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-13 05:57:36,195 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 05:57:43,471 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 05:57:51,093 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_13__2018_5_57_49_AM.png 
+2018-11-13 05:59:03,388 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-13 05:59:23,102 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 05:59:27,376 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 05:59:30,855 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_PageHeading_txt_Nov_13__2018_5_59_30_AM.png 
+2018-11-13 06:00:40,194 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-13 06:00:59,698 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-13 06:01:04,834 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_13__2018_6_01_04_AM.png 
+2018-11-13 06:02:21,795 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-13 06:02:41,768 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-13 06:02:51,106 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-13 06:02:55,280 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_13__2018_6_02_54_AM.png 
+2018-11-13 06:03:19,685 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 06:03:36,116 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 06:03:43,404 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 06:03:48,762 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_13__2018_6_03_48_AM.png 
+2018-11-13 06:03:53,230 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 06:04:15,461 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 06:04:21,912 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 06:04:26,764 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_PageHeading_txt_Nov_13__2018_6_04_26_AM.png 
+2018-11-13 06:04:33,678 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-13 06:04:54,663 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-13 06:05:04,750 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_13__2018_6_05_04_AM.png 
+2018-11-13 06:05:10,625 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-13 06:05:30,854 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-13 06:05:36,969 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-13 06:05:41,172 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_13__2018_6_05_40_AM.png 
+2018-11-13 06:05:46,791 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 06:06:04,275 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:06:09,551 INFO  [ListenersInSelenium] Screenshot of webelementSignIn_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignIn_PageHeading_txt_Nov_13__2018_6_06_09_AM.png 
+2018-11-13 06:06:14,323 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 06:06:30,799 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:06:36,172 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_SignInSectionHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_SignInSectionHeading_txt_Nov_13__2018_6_06_35_AM.png 
+2018-11-13 06:06:41,607 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 06:07:00,275 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:07:05,517 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_Breadcrumb_txt_Nov_13__2018_6_07_05_AM.png 
+2018-11-13 06:07:10,992 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 06:07:29,444 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:07:35,819 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationSectionHeading_SignInPage_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationSectionHeading_SignInPage_txt_Nov_13__2018_6_07_35_AM.png 
+2018-11-13 06:07:42,395 INFO  [SignInTest] Chrome has been launched 
+2018-11-13 06:08:00,526 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:08:04,863 INFO  [SignInPage] testdunkin5@gmail.comhas been entered/selected in SignIn_Email_tbox 
+2018-11-13 06:08:05,472 INFO  [SignInPage] Qwertyui1has been entered/selected in SignIn_Password_tbox 
+2018-11-13 06:08:10,838 INFO  [ListenersInSelenium] Screenshot of webelementValidate Login Process_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Validate Login Process_txt_Nov_13__2018_6_08_10_AM.png 
+2018-11-13 06:09:20,729 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 06:09:40,204 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:09:46,119 INFO  [ListenersInSelenium] Screenshot of webelementSignIn_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignIn_PageHeading_txt_Nov_13__2018_6_09_45_AM.png 
+2018-11-13 06:10:52,798 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 06:11:12,617 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:11:16,756 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_SignInSectionHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_SignInSectionHeading_txt_Nov_13__2018_6_11_16_AM.png 
+2018-11-13 06:12:11,154 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 06:12:32,906 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:12:37,465 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_Breadcrumb_txt_Nov_13__2018_6_12_37_AM.png 
+2018-11-13 06:13:38,891 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 06:13:57,144 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:14:02,434 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationSectionHeading_SignInPage_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationSectionHeading_SignInPage_txt_Nov_13__2018_6_14_02_AM.png 
+2018-11-13 06:15:02,368 INFO  [SignInTest] Firefox has been launched 
+2018-11-13 06:15:21,678 INFO  [SignInTest] Homepage is in display 
+2018-11-13 06:15:25,784 INFO  [SignInPage] testdunkin5@gmail.comhas been entered/selected in SignIn_Email_tbox 
+2018-11-13 06:15:26,038 INFO  [SignInPage] Qwertyui1has been entered/selected in SignIn_Password_tbox 
+2018-11-13 06:15:32,457 INFO  [ListenersInSelenium] Screenshot of webelementValidate Login Process_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Validate Login Process_txt_Nov_13__2018_6_15_32_AM.png 
+2018-11-13 06:15:45,221 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 06:16:02,965 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:16:32,315 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 06:16:32,346 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 06:16:33,637 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_13__2018_6_16_33_AM.png 
+2018-11-13 06:16:38,855 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 06:16:56,319 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:17:24,542 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-13 06:17:25,000 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-13 06:17:27,496 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_13__2018_6_17_26_AM.png 
+2018-11-13 06:17:33,405 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 06:17:51,121 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:17:52,401 INFO  [Homepage] Faded Short Sleeve T-shirtshas been entered/selected in Search_tbox 
+2018-11-13 06:17:57,219 INFO  [ListenersInSelenium] Screenshot of webelementFadedShortSleeveTshirts_lnktxt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\FadedShortSleeveTshirts_lnktxt_Nov_13__2018_6_17_56_AM.png 
+2018-11-13 06:18:02,590 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 06:18:21,278 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:19:03,487 INFO  [HomepageTest] Homepage_Slider1 -- clicked 
+2018-11-13 06:19:03,506 INFO  [HomepageTest] URL for elementNameHomepage_Slider1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:19:05,005 INFO  [ListenersInSelenium] Screenshot of webelementHomepage Slider1 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage Slider1_Nov_13__2018_6_19_04_AM.png 
+2018-11-13 06:19:10,164 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 06:19:27,874 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:20:04,663 INFO  [HomepageTest] Homepage_Slider2 -- clicked 
+2018-11-13 06:20:04,689 INFO  [HomepageTest] URL for elementNameHomepage_Slider2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:20:06,238 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider2 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider2_Nov_13__2018_6_20_05_AM.png 
+2018-11-13 06:20:11,492 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 06:20:28,799 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:21:04,169 INFO  [HomepageTest] Homepage_Slider3 -- clicked 
+2018-11-13 06:21:04,188 INFO  [HomepageTest] URL for elementNameHomepage_Slider3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:21:05,430 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider3_Nov_13__2018_6_21_04_AM.png 
+2018-11-13 06:21:09,823 INFO  [HomepageTest] Chrome has been launched 
+2018-11-13 06:21:27,717 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:22:04,871 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 06:22:04,895 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:22:41,662 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 06:22:41,679 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:23:18,102 INFO  [HomepageTest] sample_2 -- clicked 
+2018-11-13 06:23:18,142 INFO  [HomepageTest] URL for elementNamesample_2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:23:58,981 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 06:23:59,007 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:24:51,966 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 06:24:51,982 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:24:57,871 INFO  [ListenersInSelenium] Screenshot of webelementInsightBlockImageFunctionality is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\InsightBlockImageFunctionality_Nov_13__2018_6_24_56_AM.png 
+2018-11-13 06:26:26,376 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 06:26:48,710 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:27:19,210 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-13 06:27:19,239 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-13 06:27:20,207 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_13__2018_6_27_19_AM.png 
+2018-11-13 06:28:38,715 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 06:29:00,114 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:29:28,832 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-13 06:29:28,858 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-13 06:29:30,443 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_13__2018_6_29_29_AM.png 
+2018-11-13 06:30:44,132 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 06:31:05,238 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:31:06,584 INFO  [Homepage] Faded Short Sleeve T-shirtshas been entered/selected in Search_tbox 
+2018-11-13 06:31:11,984 INFO  [ListenersInSelenium] Screenshot of webelementFadedShortSleeveTshirts_lnktxt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\FadedShortSleeveTshirts_lnktxt_Nov_13__2018_6_31_11_AM.png 
+2018-11-13 06:32:23,131 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 06:32:44,720 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:33:10,792 INFO  [HomepageTest] Homepage_Slider1 -- clicked 
+2018-11-13 06:33:10,805 INFO  [HomepageTest] URL for elementNameHomepage_Slider1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:33:12,138 INFO  [ListenersInSelenium] Screenshot of webelementHomepage Slider1 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage Slider1_Nov_13__2018_6_33_11_AM.png 
+2018-11-13 06:34:46,006 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 06:35:05,878 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:35:33,094 INFO  [HomepageTest] Homepage_Slider2 -- clicked 
+2018-11-13 06:35:33,112 INFO  [HomepageTest] URL for elementNameHomepage_Slider2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:35:35,274 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider2 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider2_Nov_13__2018_6_35_34_AM.png 
+2018-11-13 06:36:35,361 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 06:36:53,884 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:37:22,306 INFO  [HomepageTest] Homepage_Slider3 -- clicked 
+2018-11-13 06:37:22,341 INFO  [HomepageTest] URL for elementNameHomepage_Slider3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:37:23,696 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider3_Nov_13__2018_6_37_23_AM.png 
+2018-11-13 06:38:45,619 INFO  [HomepageTest] Firefox has been launched 
+2018-11-13 06:39:05,669 INFO  [HomepageTest] Homepage is in display 
+2018-11-13 06:39:37,730 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-13 06:39:37,758 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:40:06,936 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-13 06:40:06,983 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:40:37,871 INFO  [HomepageTest] sample_2 -- clicked 
+2018-11-13 06:40:37,878 INFO  [HomepageTest] URL for elementNamesample_2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-13 06:43:59,063 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\Homepage_Slider3_Nov_13__2018_6_43_58_AM.png 
+2018-11-13 21:15:10,625 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:15:44,355 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:15:54,442 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:16:08,235 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:16:31,216 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:16:35,394 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:16:45,599 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:17:17,249 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:17:21,507 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:17:31,685 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:17:36,206 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:18:32,625 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:18:35,906 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:21:21,752 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:21:58,396 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:22:03,542 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:22:13,774 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:22:41,219 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:22:45,252 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:22:53,971 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:23:16,383 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:23:19,578 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:23:27,020 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:23:59,938 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:24:03,617 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:24:11,110 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:24:29,758 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:24:35,283 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:24:40,877 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_Breadcrumb_txt_Nov_13__2018_9_24_39_PM.png 
+2018-11-13 21:24:45,182 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:25:19,666 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:25:23,069 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:25:31,792 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:25:55,860 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:25:59,008 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:26:07,266 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:33:01,513 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:34:45,539 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:34:51,930 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:35:03,014 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:36:53,362 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:36:56,824 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:37:04,980 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:37:54,301 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:38:02,773 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:38:05,247 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:38:18,310 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:38:32,844 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:38:44,228 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:38:45,854 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:38:51,988 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:39:05,527 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:40:08,212 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:40:10,505 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:40:14,632 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:40:16,314 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:40:23,632 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_Breadcrumb_txt_Nov_13__2018_9_40_20_PM.png 
+2018-11-13 21:40:32,154 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:41:08,884 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:41:36,948 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:41:59,442 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:42:04,891 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:42:14,436 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:42:58,372 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:43:01,990 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:43:10,287 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:43:37,497 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:43:40,728 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:43:45,910 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_13__2018_9_43_44_PM.png 
+2018-11-13 21:43:50,535 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:44:25,876 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:44:29,185 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:44:36,527 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:44:56,029 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:45:13,709 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:45:22,481 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:45:53,351 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:45:56,299 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:46:04,169 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:46:31,799 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:46:35,434 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:46:43,089 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:47:00,943 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:47:05,410 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-13 21:47:09,688 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_13__2018_9_47_09_PM.png 
+2018-11-13 21:51:37,630 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:55:06,590 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-13 21:56:43,052 INFO  [RegistrationTest] Homepage is in display 
+2018-11-13 21:56:56,304 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 00:58:03,649 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 00:58:24,658 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 00:58:33,615 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 00:58:43,935 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_12_58_39_AM.png 
+2018-11-14 00:58:54,743 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 00:59:13,022 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 00:59:19,031 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 00:59:30,658 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 00:59:51,618 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 00:59:57,177 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 01:00:10,295 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 01:00:33,910 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 01:00:39,432 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 01:00:50,721 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:09:14,129 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:09:32,253 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:09:37,299 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:09:42,807 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_2_09_41_AM.png 
+2018-11-14 02:09:48,274 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:10:04,730 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:10:07,878 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:10:15,767 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:10:31,467 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:10:34,727 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:10:42,689 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:10:59,658 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:11:02,922 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:11:10,208 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:11:27,640 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:11:30,840 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:11:38,516 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:11:55,636 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:11:58,814 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:12:02,873 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_2_12_02_AM.png 
+2018-11-14 02:45:51,796 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:46:09,591 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:46:15,934 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:46:21,180 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_2_46_19_AM.png 
+2018-11-14 02:46:28,166 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:46:49,520 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:46:52,816 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:47:01,921 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:47:18,848 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:47:22,213 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:47:29,671 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:47:47,793 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:47:51,075 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:47:59,104 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:48:17,742 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:48:20,852 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:48:28,622 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 02:48:46,247 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 02:48:49,616 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 02:48:53,569 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_2_48_52_AM.png 
+2018-11-14 02:53:40,897 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-14 02:54:01,248 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 02:54:07,528 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_14__2018_2_54_06_AM.png 
+2018-11-14 02:55:35,832 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-14 02:55:53,427 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 02:55:59,054 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-14 02:56:04,327 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_14__2018_2_56_03_AM.png 
+2018-11-14 02:56:26,450 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-14 02:56:49,089 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 02:57:00,207 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_14__2018_2_56_59_AM.png 
+2018-11-14 02:57:04,918 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-14 02:57:44,707 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 02:58:00,156 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-14 02:58:07,618 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_14__2018_2_58_05_AM.png 
+2018-11-14 03:11:26,208 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:11:42,788 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:11:48,479 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:11:57,315 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:12:14,484 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:12:17,221 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:12:25,141 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:12:42,119 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:12:45,595 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:12:53,107 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:13:08,378 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:13:11,119 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:13:18,878 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:13:36,065 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:13:38,858 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:13:43,556 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_3_13_42_AM.png 
+2018-11-14 03:15:21,178 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 03:15:40,113 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:15:45,209 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:15:49,919 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_3_15_49_AM.png 
+2018-11-14 03:22:02,368 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:22:20,541 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:22:31,087 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:22:41,573 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:22:58,822 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:23:02,341 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:23:09,627 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:23:27,064 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:23:31,049 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:23:39,391 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:23:56,375 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:23:59,749 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:24:07,248 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:24:24,706 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:24:27,593 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:24:32,403 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_3_24_31_AM.png 
+2018-11-14 03:26:12,485 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 03:26:34,415 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:26:41,695 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:26:48,244 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_3_26_47_AM.png 
+2018-11-14 03:28:22,528 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 03:28:43,715 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:28:48,309 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:28:51,820 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_3_28_51_AM.png 
+2018-11-14 03:35:59,629 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:36:18,299 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:36:24,189 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:36:29,598 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_3_36_28_AM.png 
+2018-11-14 03:36:35,474 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:36:51,637 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:36:54,649 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:36:58,784 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_3_36_58_AM.png 
+2018-11-14 03:38:53,473 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 03:39:14,300 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:39:24,586 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:39:38,188 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_3_39_33_AM.png 
+2018-11-14 03:41:39,815 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 03:42:08,027 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:42:13,069 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:42:18,028 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_3_42_17_AM.png 
+2018-11-14 03:43:54,011 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-14 03:44:20,129 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 03:44:29,400 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_14__2018_3_44_28_AM.png 
+2018-11-14 03:46:31,084 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-14 03:46:43,786 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 03:46:52,495 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_14__2018_3_46_51_AM.png 
+2018-11-14 03:46:57,303 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-14 03:47:16,916 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 03:47:22,455 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-14 03:47:26,178 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_14__2018_3_47_25_AM.png 
+2018-11-14 03:47:32,664 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:47:49,257 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:47:52,839 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:48:00,710 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:48:16,943 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:48:19,969 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:48:28,282 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:48:44,237 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:48:47,059 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:48:54,594 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:49:17,504 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:49:21,060 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:49:28,847 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 03:49:45,638 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:49:48,389 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:49:52,305 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_3_49_51_AM.png 
+2018-11-14 03:50:58,463 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 03:51:18,577 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:51:22,754 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:51:26,052 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_3_51_25_AM.png 
+2018-11-14 03:52:33,120 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 03:52:55,965 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 03:52:58,843 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 03:53:01,925 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_3_53_01_AM.png 
+2018-11-14 04:07:30,600 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 04:07:51,564 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 04:07:58,955 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 04:08:05,771 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_4_08_03_AM.png 
+2018-11-14 04:13:24,689 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 04:13:42,714 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 04:13:48,964 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 04:13:54,385 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_4_13_53_AM.png 
+2018-11-14 04:23:43,341 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 04:23:58,871 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 04:24:07,995 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 04:24:15,310 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_4_24_12_AM.png 
+2018-11-14 04:24:23,616 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 04:24:40,427 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 04:24:44,984 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 04:24:49,612 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_4_24_48_AM.png 
+2018-11-14 04:29:09,284 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 04:29:25,766 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 04:29:31,145 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 04:29:37,295 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_4_29_35_AM.png 
+2018-11-14 04:29:43,446 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 04:30:00,738 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 04:30:03,980 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 04:30:07,989 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_4_30_07_AM.png 
+2018-11-14 04:35:28,561 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-14 04:35:48,626 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 04:35:56,509 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_14__2018_4_35_55_AM.png 
+2018-11-14 04:37:18,968 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-14 04:37:37,930 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 04:37:44,631 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-14 04:37:48,301 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_14__2018_4_37_48_AM.png 
+2018-11-14 04:38:24,794 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-14 04:38:42,935 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 04:38:51,064 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_14__2018_4_38_50_AM.png 
+2018-11-14 04:38:56,370 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-14 04:39:14,845 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 04:39:19,443 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-14 04:39:22,643 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_14__2018_4_39_22_AM.png 
+2018-11-14 04:39:29,091 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 04:39:44,865 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 04:39:48,389 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 04:39:54,956 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_4_39_54_AM.png 
+2018-11-14 04:41:04,488 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 04:41:24,322 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 04:41:28,106 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 04:41:32,450 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_14__2018_4_41_32_AM.png 
+2018-11-14 04:43:04,395 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-14 04:43:23,763 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 04:43:29,010 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-14 04:43:31,915 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_14__2018_4_43_31_AM.png 
+2018-11-14 05:06:01,429 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 05:06:16,977 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 05:06:25,842 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 05:06:33,047 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_5_06_30_AM.png 
+2018-11-14 05:06:42,439 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 05:06:58,889 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 05:07:02,849 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 05:11:58,044 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-14 05:12:17,000 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 05:12:27,812 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_14__2018_5_12_25_AM.png 
+2018-11-14 05:14:57,007 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-14 05:15:57,806 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 10:49:49,338 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordPage_PageHeading_txt_Nov_14__2018_10_49_23_AM.png 
+2018-11-14 20:38:53,440 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 20:39:11,978 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 20:39:47,840 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 20:39:54,814 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_8_39_53_PM.png 
+2018-11-14 20:40:03,245 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 20:40:29,829 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 20:40:42,788 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 20:44:44,683 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 20:45:59,796 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 20:46:29,991 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 20:46:52,947 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_8_46_51_PM.png 
+2018-11-14 20:50:58,056 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 20:52:08,875 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 20:52:17,625 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 20:52:25,880 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_8_52_24_PM.png 
+2018-11-14 20:52:32,239 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 20:54:22,303 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 20:54:27,993 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 22:19:06,525 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 22:19:23,416 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 22:19:32,066 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 22:19:38,085 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_14__2018_10_19_36_PM.png 
+2018-11-14 22:19:44,996 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 22:30:48,404 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 22:35:37,543 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 22:42:19,218 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-14 22:44:17,125 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-14 23:22:09,446 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 23:25:32,116 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 23:25:45,589 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 23:27:28,142 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-14 23:50:54,988 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-14 23:51:26,692 INFO  [RegistrationTest] Homepage is in display 
+2018-11-14 23:51:53,667 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-14 23:59:42,064 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 00:02:12,213 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 00:04:30,755 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 00:04:37,704 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_12_04_36_AM.png 
+2018-11-15 00:04:44,425 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 00:08:07,881 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_12_08_06_AM.png 
+2018-11-15 00:10:20,086 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_12_10_12_AM.png 
+2018-11-15 00:12:26,997 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_12_12_25_AM.png 
+2018-11-15 00:14:25,534 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_12_14_23_AM.png 
+2018-11-15 00:28:21,000 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 00:28:27,981 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 00:29:27,771 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 00:30:45,042 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 00:30:50,437 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 00:32:06,207 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 00:37:04,233 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 00:43:23,653 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 00:46:41,522 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 00:46:55,611 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 00:50:49,128 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 00:53:34,289 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 00:53:46,089 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 00:53:52,917 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_12_53_51_AM.png 
+2018-11-15 00:53:59,185 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 00:54:05,635 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 00:54:14,109 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 00:54:18,448 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationPage_Breadcrumb_txt_Nov_15__2018_12_54_17_AM.png 
+2018-11-15 02:44:23,553 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 02:44:43,058 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 02:44:48,120 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 02:44:53,855 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_2_44_52_AM.png 
+2018-11-15 02:45:03,011 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 02:45:21,294 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 02:45:24,360 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 02:45:28,122 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_Breadcrumb_txt_Nov_15__2018_2_45_27_AM.png 
+2018-11-15 02:50:32,020 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-15 02:50:50,609 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-15 02:51:00,766 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\ForgotPasswordPage_PageHeading_txt_Nov_15__2018_2_50_57_AM.png 
+2018-11-15 02:52:28,936 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-15 02:52:52,103 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-15 02:52:58,700 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-15 02:53:01,812 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_15__2018_2_53_01_AM.png 
+2018-11-15 02:53:35,299 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-15 02:53:50,427 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-15 02:53:56,946 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\ForgotPasswordPage_PageHeading_txt_Nov_15__2018_2_53_56_AM.png 
+2018-11-15 02:54:02,008 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-15 02:54:20,168 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-15 02:54:26,109 INFO  [ForgotPasswordPage] richie.ipp@gmail.comhas been entered/selected in Email_tbox 
+2018-11-15 02:54:30,828 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordConfirmationMessages_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\ForgotPasswordConfirmationMessages_txt_Nov_15__2018_2_54_30_AM.png 
+2018-11-15 02:54:37,685 INFO  [SignInTest] Chrome has been launched 
+2018-11-15 02:55:00,990 INFO  [SignInTest] Homepage is in display 
+2018-11-15 02:55:06,432 INFO  [ListenersInSelenium] Screenshot of webelementSignIn_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignIn_PageHeading_txt_Nov_15__2018_2_55_05_AM.png 
+2018-11-15 02:55:12,198 INFO  [SignInTest] Chrome has been launched 
+2018-11-15 02:55:30,914 INFO  [SignInTest] Homepage is in display 
+2018-11-15 02:55:35,599 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_SignInSectionHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_SignInSectionHeading_txt_Nov_15__2018_2_55_35_AM.png 
+2018-11-15 02:55:42,893 INFO  [SignInTest] Chrome has been launched 
+2018-11-15 02:56:05,157 INFO  [SignInTest] Homepage is in display 
+2018-11-15 02:56:09,680 INFO  [ListenersInSelenium] Screenshot of webelementSignInPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInPage_Breadcrumb_txt_Nov_15__2018_2_56_09_AM.png 
+2018-11-15 02:57:27,285 INFO  [SignInTest] Chrome has been launched 
+2018-11-15 02:57:50,483 INFO  [SignInTest] Homepage is in display 
+2018-11-15 02:57:55,266 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationSectionHeading_SignInPage_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\RegistrationSectionHeading_SignInPage_txt_Nov_15__2018_2_57_54_AM.png 
+2018-11-15 02:58:08,691 INFO  [SignInTest] Chrome has been launched 
+2018-11-15 02:58:29,416 INFO  [SignInTest] Homepage is in display 
+2018-11-15 02:58:35,606 INFO  [SignInPage] testdunkin5@gmail.comhas been entered/selected in SignIn_Email_tbox 
+2018-11-15 02:58:36,500 INFO  [SignInPage] Qwertyui1has been entered/selected in SignIn_Password_tbox 
+2018-11-15 02:58:42,393 INFO  [ListenersInSelenium] Screenshot of webelementValidate Login Process_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Validate Login Process_txt_Nov_15__2018_2_58_41_AM.png 
+2018-11-15 03:00:51,623 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:01:28,799 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:02:07,638 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-15 03:02:07,676 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-15 03:02:10,302 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_15__2018_3_02_09_AM.png 
+2018-11-15 03:02:17,591 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:02:39,034 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:03:08,697 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-15 03:03:08,743 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-15 03:03:22,077 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_15__2018_3_03_10_AM.png 
+2018-11-15 03:03:32,585 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:03:51,505 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:03:57,318 INFO  [Homepage] Faded Short Sleeve T-shirtshas been entered/selected in Search_tbox 
+2018-11-15 03:04:02,986 INFO  [ListenersInSelenium] Screenshot of webelementFadedShortSleeveTshirts_lnktxt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\FadedShortSleeveTshirts_lnktxt_Nov_15__2018_3_04_02_AM.png 
+2018-11-15 03:04:07,460 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:04:25,216 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:05:00,411 INFO  [HomepageTest] Homepage_Slider1 -- clicked 
+2018-11-15 03:05:00,445 INFO  [HomepageTest] URL for elementNameHomepage_Slider1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:05:07,217 INFO  [ListenersInSelenium] Screenshot of webelementHomepage Slider1 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage Slider1_Nov_15__2018_3_05_06_AM.png 
+2018-11-15 03:05:12,337 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:05:29,549 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:05:55,436 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider2 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\Homepage_Slider2_Nov_15__2018_3_05_54_AM.png 
+2018-11-15 03:06:00,851 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:06:17,544 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:06:44,199 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\Homepage_Slider3_Nov_15__2018_3_06_43_AM.png 
+2018-11-15 03:06:49,747 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:07:05,786 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:07:44,379 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-15 03:07:44,395 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:08:17,914 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-15 03:08:17,932 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:08:47,926 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\Homepage_Slider3_Nov_15__2018_3_08_46_AM.png 
+2018-11-15 03:10:01,487 INFO  [HomepageTest] Firefox has been launched 
+2018-11-15 03:10:27,347 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:10:59,606 INFO  [HomepageTest] SignInLink -- clicked 
+2018-11-15 03:10:59,620 INFO  [HomepageTest] URL for elementNameSignInLink" is: http://automationpractice.com/index.php?controller=authentication&back=my-account" 
+2018-11-15 03:11:00,955 INFO  [ListenersInSelenium] Screenshot of webelementSignInLink is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\SignInLink_Nov_15__2018_3_11_00_AM.png 
+2018-11-15 03:12:23,401 INFO  [HomepageTest] Firefox has been launched 
+2018-11-15 03:12:47,016 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:13:18,447 INFO  [HomepageTest] GETSAVINGSNOWButton -- clicked 
+2018-11-15 03:13:18,461 INFO  [HomepageTest] URL for elementNameGETSAVINGSNOWButton" is: http://automationpractice.com/index.php" 
+2018-11-15 03:13:20,118 INFO  [ListenersInSelenium] Screenshot of webelementGETSAVINGSNOWButton is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\GETSAVINGSNOWButton_Nov_15__2018_3_13_19_AM.png 
+2018-11-15 03:14:21,703 INFO  [HomepageTest] Firefox has been launched 
+2018-11-15 03:14:41,324 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:14:41,971 INFO  [Homepage] Faded Short Sleeve T-shirtshas been entered/selected in Search_tbox 
+2018-11-15 03:14:49,508 INFO  [ListenersInSelenium] Screenshot of webelementFadedShortSleeveTshirts_lnktxt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\FadedShortSleeveTshirts_lnktxt_Nov_15__2018_3_14_48_AM.png 
+2018-11-15 03:16:42,540 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 03:17:04,475 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 03:17:11,534 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 03:17:17,632 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_3_17_16_AM.png 
+2018-11-15 03:18:20,021 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-15 03:18:44,288 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 03:18:47,773 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 03:18:51,500 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_3_18_50_AM.png 
+2018-11-15 03:19:48,123 INFO  [RegistrationTest] Firefox has been launched 
+2018-11-15 03:20:08,539 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 03:20:11,806 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 03:20:14,936 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_Breadcrumb_txt_Nov_15__2018_3_20_14_AM.png 
+2018-11-15 03:43:22,785 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 03:43:40,042 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 03:43:44,708 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 03:43:50,456 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Nov_15__2018_3_43_48_AM.png 
+2018-11-15 03:43:55,958 INFO  [RegistrationTest] Chrome has been launched 
+2018-11-15 03:44:11,318 INFO  [RegistrationTest] Homepage is in display 
+2018-11-15 03:44:14,829 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2018-11-15 03:44:18,374 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_Breadcrumb_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_Breadcrumb_txt_Nov_15__2018_3_44_17_AM.png 
+2018-11-15 03:45:17,954 INFO  [ForgotPasswordTest] Firefox has been launched 
+2018-11-15 03:45:38,112 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-15 03:45:42,789 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\ForgotPasswordPage_PageHeading_txt_Nov_15__2018_3_45_42_AM.png 
+2018-11-15 03:45:53,479 INFO  [ForgotPasswordTest] Chrome has been launched 
+2018-11-15 03:46:11,978 INFO  [ForgotPasswordTest] Homepage is in display 
+2018-11-15 03:46:16,841 INFO  [ListenersInSelenium] Screenshot of webelementForgotPasswordPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\ForgotPasswordPage_PageHeading_txt_Nov_15__2018_3_46_16_AM.png 
+2018-11-15 03:46:21,545 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:46:38,334 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:47:13,917 INFO  [HomepageTest] Homepage_Slider2 -- clicked 
+2018-11-15 03:47:13,941 INFO  [HomepageTest] URL for elementNameHomepage_Slider2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:47:15,243 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider2 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider2_Nov_15__2018_3_47_14_AM.png 
+2018-11-15 03:47:19,698 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:47:36,248 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:48:09,531 INFO  [HomepageTest] Homepage_Slider3 -- clicked 
+2018-11-15 03:48:09,556 INFO  [HomepageTest] URL for elementNameHomepage_Slider3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:48:10,775 INFO  [ListenersInSelenium] Screenshot of webelementHomepage_Slider3 is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\Homepage_Slider3_Nov_15__2018_3_48_10_AM.png 
+2018-11-15 03:48:15,086 INFO  [HomepageTest] Chrome has been launched 
+2018-11-15 03:48:32,708 INFO  [HomepageTest] Homepage is in display 
+2018-11-15 03:49:10,565 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-15 03:49:10,586 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:49:44,665 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-15 03:49:44,685 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:50:19,735 INFO  [HomepageTest] sample_2 -- clicked 
+2018-11-15 03:50:19,758 INFO  [HomepageTest] URL for elementNamesample_2" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:50:57,272 INFO  [HomepageTest] sample_3 -- clicked 
+2018-11-15 03:50:57,295 INFO  [HomepageTest] URL for elementNamesample_3" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:51:38,560 INFO  [HomepageTest] sample_1 -- clicked 
+2018-11-15 03:51:38,579 INFO  [HomepageTest] URL for elementNamesample_1" is: https://www.prestashop.com/en?utm_source=v16_homeslider" 
+2018-11-15 03:51:42,935 INFO  [ListenersInSelenium] Screenshot of webelementInsightBlockImageFunctionality is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\PASSED\InsightBlockImageFunctionality_Nov_15__2018_3_51_41_AM.png 
+2019-01-12 02:36:05,515 INFO  [RegistrationTest] Chrome has been launched 
+2019-01-12 02:36:19,526 INFO  [RegistrationTest] Homepage is in display 
+2019-01-12 02:36:24,659 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2019-01-12 08:15:44,052 INFO  [RegistrationTest] Chrome has been launched 
+2019-01-12 08:16:54,709 INFO  [RegistrationTest] Homepage is in display 
+2019-01-12 08:19:51,798 INFO  [SignInPage] testdunkin48@gmail.comhas been entered/selected in Reg_TBox 
+2019-01-12 08:19:54,412 INFO  [RegistrationTest] Actual result Screenshot taken and stored atE:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\ActualResult\RegistrationPage_PageHeading_txt_Jan_12__2019_8_19_53_AM.png 
+2019-01-12 08:19:54,706 INFO  [RegistrationTest] Actual Result Screenshot for Extent Report taken and stored atE:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\ExtentReport3\Screenshots\ActualResult\RegistrationPage_PageHeading_txt_Jan_12__2019_8_19_54_AM.png 
+2019-01-12 08:19:55,611 INFO  [ListenersInSelenium] Screenshot of webelementRegistrationPage_PageHeading_txt is saved at E:\QA\Automation_Tools\Selenium\WorkspaceMars1\A3hp.com.automationprac\TestReports\Screenshots\FAILED\RegistrationPage_PageHeading_txt_Jan_12__2019_8_19_54_AM.png 
+2019-01-12 08:20:00,848 INFO  [RegistrationTest] Chrome has been launched 
+2019-01-12 19:14:23,982 INFO  [RegistrationTest] Chrome has been launched 
+2019-01-12 19:14:31,826 INFO  [RegistrationTest] Homepage is in display 
